@@ -1,0 +1,298 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    
+}
+
+html body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height:1.3em;
+}
+h1,h2,h3{
+    padding-bottom:30x;
+    line-height: 1.2em;
+    
+}
+p{
+    line-height:1.4em;
+    padding-bottom:;
+    font-size: 16px;
+}
+.container{
+    max-width: 1080px;
+    margin: auto;
+    overflow:auto;
+    padding:20px;
+}
+
+#navbar img{
+    width:15%;
+    float: left;
+    padding-top: 20px;
+    
+}
+#navbar {
+    position:;
+    width: 100%;
+     
+}
+
+
+#navbar ul{
+    float: right;
+    list-style: none;
+    margin-top: 10px;
+}
+#navbar ul li{
+    float:left;
+    display: block;
+}
+#navbar ul li a{
+    text-decoration: none;
+    margin-right:10px;
+    padding:20px;
+    display: block;
+
+    
+
+    
+}
+.acc{
+    border:1px solid;
+    border-radius: 3px;
+}
+#navbar{
+    background: white;
+    overflow: auto;
+    
+    
+}
+#navbar .acc:hover{
+    border: 1px solid gray;
+    border-radius: 4px;
+    background: rgb(51, 51, 117);
+    color: white;
+}
+#navbar ul li a:hover{
+    background:rgb(51, 51, 117) ;
+    color: white;
+}
+
+.bg-white{
+    background: white;
+}
+.btn4{
+    margin-top:30px ;
+}
+.btn3{
+    margin-top: 20px;
+}
+
+.btn{
+    text-decoration: none;
+    border: 1px solid gray;
+    padding:10px;
+    border-radius: 4px;
+    background: rgb(17, 175, 109);
+    color: white;
+    }
+    
+        
+    .btn:hover{
+        color: rgb(51, 51, 117);
+        background: white;
+    }
+    #piggy-info{
+        height:700px; 
+        margin-top: -80px;
+        
+     }
+#piggy-info .info-left img{
+    width:25%;
+}
+#piggy-info .info-left{
+    float:left;
+    width:50%;
+    min-height: 140%;
+    padding-top: 40px;
+    padding-bottom:50px ;
+}
+#piggy-info .info-right img{
+width: 70%;
+display:block;
+}
+#piggy-info .info-right{
+    width:50% ;
+    float: right;
+    min-height: 100%;
+}
+#piggy-con{
+    height: 300px;
+    margin: -90px;
+    padding-top: 50px;
+    
+}
+.t1{
+    color: rgb(51, 51, 117);
+
+}
+.post{
+    color: rgb(17, 175, 109);
+}
+.bg-ash{
+    background: whitesmoke;
+}
+.bg-purple{
+    background: rgb(30, 25, 100);
+}
+.bg-white{
+    background: white;
+}
+#piggy-con{
+    height: 100%;
+}
+#piggy-con .l-h{
+    width: 20%;
+    min-height: 100%;
+    float: left;
+}
+#piggy-con .l-h img{
+    width: 100px;
+    margin-left: 60px;    
+}
+#piggy-con .r-h{
+    width: 80%;
+    min-height: 100%;
+    margin-left: 150px;
+    
+    
+}
+#piggy-con .r-h .texts{
+   text-align: justify;
+   width: 100%;
+   
+}
+#little-info{
+    margin-top: 150px;
+    text-align: center;
+}
+.box{
+width: 33.3%;
+float: left;
+padding: 50px;
+text-align: justify;
+
+
+}
+.box img{
+    width:80%;
+    padding-bottom: 40px;
+}
+#sect1{
+    height:100%;
+    margin-bottom: 5px;
+    
+    
+}
+#sect1 .left-pic{
+    float: left;
+    width: 50%;
+    min-height: 100%;
+}
+#sect1 .left-pic img{
+    width: 40%;
+    margin-left: 80px;
+    border-radius: 5px;
+    display:inline-block;
+    
+
+}
+#sect1  .right-text{
+    width: 50%;
+    min-height:100%;
+    float:right ;
+    
+    
+    
+    
+    
+}
+#sect1  .right-text1{
+    width: 70%;
+    float:right;
+    margin-right: 100px;
+
+}
+.saver-1{
+    text-align: center;
+    margin: 30px;
+}
+.clr{
+    clear: both;
+    
+    
+}
+#testimonials{
+    height: 100%;
+    margin-top: -10px;
+    
+}
+#testimonials .testi-col{
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-top: 30px;
+}
+.testi-all{
+    overflow:none;
+}
+
+.testi-all img{
+    width: 5%;
+    float:left ;
+  display: block;
+  border-radius: 50%;
+}
+.testi-all .testimonials-info{
+    width: 50%;
+    margin-left: 80px;
+    padding: 20px;
+    border-radius:10px;
+}
+.testi-all2{
+    margin-left: 50px;
+}
+ #little-con {
+     text-align:center;
+     margin-top: 30px;
+    }
+    #little-con img{
+        width: 100px;
+    }
+    #little-con .btn2{
+        text-decoration: none;
+        border: 1px solid purple;
+        padding: 10px;
+        color: white;
+        background: rgb(30, 25, 100);
+        border-radius: 5px;
+    }
+     #little-con .btn2:hover{
+         color:rgb(30, 25, 100) ;
+         background: white;
+     }
+     
+     .piggy-img{
+         width: 100px;
+     }
+     
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+p{
+font-size: 8px;
+}
+h1,h2,h3{
+    line-height: 1.2em;
+}
+
+
+#navbar img {
+    float: none;
+    text-align:center;
+}
+#navbar ul, #navbar ul li{
+    float: none;
+}
+#navbar ul li a {
+    padding:5px;
+    border-bottom: 1px dotted rgb(51, 51, 117);
+    
+}
+#navbar ul{
+    text-align: center;
+}
+
+#piggy-info .info-right img{
+    display: none;
+}
+#piggy-info .info-left{
+    float:none;
+    width: 100%;
+    text-align: center;
+}
+#piggy-con .l-h img{
+    display:none ;
+}
+#piggy-con .r-h{
+    float: none;
+    width: 60%;
+    
+
+}
+#piggy-con .r-h .texts{
+    text-align: center;
+    
+}
+.box{
+    float: none;
+    width: 100%;
+    border-bottom: 1px dotted;
+}
+#sect1 .left-pic{
+    display: none;
+}
+#sect1  .right-text1{
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+#sect1  .right-text{
+    text-align: center;
+    width: 100%;
+}
+
+
+.testi-all .testimonials-info{
+    width:80% ;
+    }
+    
+    
